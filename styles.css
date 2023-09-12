@@ -25,22 +25,24 @@ body {
 
 #navlist li {
     display: inline;
+    font-size: 1.2rem;
 }
 
 #navlist a {
     padding 6px 20px;
     background-color: #006400;
     border: 2px inset #bced91;
-
 }
 
 #navlist a:link, #navlist a:visited {
     color:#50a109;
+    border: 1px inset #bced91;
 }
 
 #navlist a:hover {
     color: #006400;
     background-color: #bced91;
+    borderL 1pz outset #006400;
 }
 
 p{
